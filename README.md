@@ -1,6 +1,5 @@
 # KOBART SUMMARIZATION
 
-##### 각 개발과정 상세히 둘러보기
 
 ### [0. 개발환경](https://github.com/ChoiSaeyoun/kobart_summarization/blob/main/explain/0_about_folder.ipynb)
 ### [1._패키지 설치](https://github.com/ChoiSaeyoun/kobart_summarization/blob/main/explain/1_install_package.ipynb)
